@@ -1,0 +1,245 @@
+.portfolio {
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.portfolio-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.portfolio-container h1 {
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.port-row {
+    /* background: blueviolet; */
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.port-row .row1 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row1 .img {
+    background: url('../../assets/ng-wemaba-logo.webp') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row1 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row1 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row1 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+
+/* Row2 */
+.port-row .row2 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row2 .img {
+    background: url('../../assets/unilever-logo.png') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row2 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row2 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row2 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+/* Row3 */
+.port-row .row3 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row3 .img {
+    background: url('../../assets/ocean.jpg') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row3 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row3 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row3 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+/* Row4 */
+.port-row .row4 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row4 .img {
+    background: url('../../assets/download.jpg') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row4 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row4 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row4 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+/* Row5 */
+.port-row .row5 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row5 .img {
+    background: url('../../assets/mobil.jpeg') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row5 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row5 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row5 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+/* Row6 */
+.port-row .row6 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row6 .img {
+    background: url('../../assets/noble_drilling_logo.jpg') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row6 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row6 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row6 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+/* Row7 */
+.port-row .row7 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row7 .img {
+    background: url('../../assets/delta.webp') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row7 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row7 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row7 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}
+/* Row8 */
+.port-row .row8 {
+    width: 25%;
+    height: 30vh;
+    margin-right: 1rem;
+}
+.row8 .img {
+    background: url('../../assets/lagos.jpg') no-repeat center center/cover;
+    width: 100%;
+    height: 30vh;
+}
+.row8 .img .info {
+    text-align: center;
+    padding-top: 5rem;
+    height: 30vh;
+    background-color: rgba(165, 42, 42, 0);
+    color: #00000000;
+    transition: .2s ease-in-out;
+}
+.row8 .img .info p {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.row8 .img .info:hover {
+    background-color: rgba(165, 42, 42, 0.509);
+    color: #fff;
+}

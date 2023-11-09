@@ -1,0 +1,74 @@
+.delta {
+    width: 100%;
+}
+.delta-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.delta-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.delta-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.delta-content {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.delta-content .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.delta-content .left .image {
+    height: 50vh;
+    background: url('../../assets/delta.webp') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.delta-content .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.delta-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.delta-content .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    /* margin-bottom: 1rem; */
+}
+
+.delta-content .right {
+    width: 50%;
+}
+.delta-content .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+.delta-content .right .ii {
+    font-size: 16px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+
+.delta-content .right p ul {
+    margin-top: 1rem;
+}
+.delta-content .right p ul li {
+    margin-top: .7rem;
+}
+.delta-content .right p ul li span {
+    margin-right: 1rem;
+}
+

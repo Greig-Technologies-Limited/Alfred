@@ -1,0 +1,75 @@
+.rignet {
+    width: 100%;
+}
+.rignet-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.rignet-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.rignet-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.rignet-content {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.rignet-content .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.rignet-content .left .image {
+    height: 50vh;
+    background: url('../../assets/download.jpg') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.rignet-content .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.rignet-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.rignet-content .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    /* margin-bottom: 1rem; */
+}
+
+.rignet-content .right {
+    width: 50%;
+}
+.rignet-content .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+.rignet-content .right .i {
+    font-size: 16px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+.rignet-content .right .ii {
+    font-size: 16px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+.rignet-content .right .ii ul {
+    margin-top: 1rem;
+}
+.rignet-content .right .ii ul li {
+    margin-top: .7rem;
+}
+

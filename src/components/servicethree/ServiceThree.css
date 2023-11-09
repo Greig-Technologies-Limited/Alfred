@@ -1,0 +1,56 @@
+.services3 {
+    width: 100%;
+}
+.service3-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.service3-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.service3-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.content3 {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.content3 .left {
+    width: 50%;
+    margin-right: 2rem;
+}
+.content3 .left .image {
+    height: 50vh;
+    background: url('../../assets/Magazijn-LR-920x630.jpg') no-repeat center center/cover;
+}
+.content3 .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.service3-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.content3 .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.content3 .right {
+    width: 50%;
+}
+.content3 .right p {
+    font-size: 16px;
+    margin-top: 3.6rem;
+}

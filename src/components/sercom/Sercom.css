@@ -1,0 +1,48 @@
+.sercom {
+    width: 100%;
+    padding-bottom: 3rem;
+}
+.sercom-container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.sercom-container h1 {
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.ser-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.ser-row .r1 {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 2rem;
+    border: 1px solid brown;
+    border-radius: 10px;
+    transition: .2s all ease-in-out;
+}
+.ser-row .r1:hover {
+    box-shadow: 1px 1px 1px 1px rgba(165, 42, 42, 0.37);
+}
+.ser-row .r1 h2 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.ser-row .r1 p {
+    font-size: 12px;
+    width: 80%;
+    background: none;
+    text-align: center;
+    margin-top: 1rem;
+}

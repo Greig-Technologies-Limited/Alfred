@@ -1,0 +1,80 @@
+.lagos {
+    width: 100%;
+}
+.lagos-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.lagos-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.lagos-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.lagos-content {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.lagos-content .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.lagos-content .left .image {
+    height: 50vh;
+    background: url('../../assets/lagos.jpg') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.lagos-content .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.lagos-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.lagos-content .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    /* margin-bottom: 1rem; */
+}
+
+.lagos-content .right {
+    width: 50%;
+}
+.lagos-content .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+
+.lagos-content .right p ul {
+    margin-top: 1rem;
+}
+.lagos-content .right p ul li {
+    margin-top: .7rem;
+}
+.lagos-content .right p ul li span {
+    margin-right: 1rem;
+}
+
+.lagos-content .right .ii {
+    font-size: 16px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+.lagos-content .right .ii ul {
+    margin-top: 1rem;
+}
+.lagos-content .right .ii ul li {
+    margin-top: .7rem;
+}

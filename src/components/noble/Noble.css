@@ -1,0 +1,81 @@
+.noble {
+    width: 100%;
+}
+.noble-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.noble-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.noble-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.noble-content {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.noble-content .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.noble-content .left .image {
+    height: 50vh;
+    background: url('../../assets/Noble_Corporation_logo.svg.png') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.noble-content .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.noble-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.noble-content .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    /* margin-bottom: 1rem; */
+}
+
+.noble-content .right {
+    width: 50%;
+}
+.noble-content .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+    margin-left: 1rem;
+}
+
+.noble-content .right p ul {
+    margin-top: 1rem;
+}
+.noble-content .right p ul li {
+    margin-top: .7rem;
+}
+.noble-content .right p ul li span {
+    margin-right: 1rem;
+}
+
+.noble-content .right .ii {
+    font-size: 16px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+.noble-content .right .ii ul {
+    margin-top: 1rem;
+}
+.noble-content .right .ii ul li {
+    margin-top: .7rem;
+}
+

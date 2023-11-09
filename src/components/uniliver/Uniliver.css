@@ -1,0 +1,57 @@
+.uniliver {
+    width: 100%;
+}
+.uniliver-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.uniliver-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.uniliver-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.uni-content {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.uni-content .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.uni-content .left .image {
+    height: 50vh;
+    background: url('../../assets/unilever-logo.png') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.uni-content .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.uniliver-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.uni-content .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.uni-content .right {
+    width: 50%;
+}
+.uni-content .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+}

@@ -1,0 +1,108 @@
+.search-container {
+    /* background: darkslategrey; */
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 23rem;
+    padding-top: .5rem;
+    width: 60%;
+    height: 28vh;
+    box-shadow: 0 8px 32px 0 rgba(45, 45, 45, 0.478);
+}
+
+.search-sec {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.search-sec input {
+    width: 60%;
+    height: 7vh;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0 8px 32px 0 rgba(96, 96, 96, 0.37);
+    padding-left: 3rem;
+    font-size: 16px;
+}
+.search-sec #domains {
+    height: 7vh;
+    margin-left: -13rem;
+    border: none;
+}
+.search-sec button {
+    border-radius: 50px;
+    margin: 0;
+    text-align: center;
+    padding: 20px 52px;
+    font-size: 16px;
+    margin-left: 1.5rem;
+}
+.domain-price {
+    display: flex;
+    /* background: gray; */
+    justify-content: center;
+    margin-top: 3rem;
+}
+.domain-price .price {
+    padding: 10px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    border-right: 1px solid #D1D6FF;
+}
+.domain-price .price .dotcom {
+    color: #FA7700;
+    font-weight: 700;
+}
+.domain-price .price .com {
+    font-size: 21px;
+    color: #0080CF;
+    font-weight: 700;
+    padding-right: 1rem;
+}
+.domain-price .price p {
+    color: #757DA2;
+    font-size: 16.5px;
+    padding-top: .3rem;
+}
+.domain-price .price .dotco {
+    color: #FA7700;
+    font-weight: 700;
+}
+.domain-price .price .co {
+    font-size: 21px;
+    color: #0080CF;
+    font-weight: 700;
+    padding-right: 1rem;
+}
+.domain-price .price .dotnet {
+    color: #FA7700;
+    font-weight: 700;
+}
+.domain-price .price .net {
+    font-size: 21px;
+    color: #0080CF;
+    font-weight: 700;
+    padding-right: 1rem;
+}
+.domain-price .price .dotinfo {
+    color: #FA7700;
+    font-weight: 700;
+}
+.domain-price .price .info {
+    font-size: 21px;
+    color: #0080CF;
+    font-weight: 700;
+    padding-right: 1rem;
+}
+.domain-price .price .dotstore {
+    color: #FA7700;
+    font-weight: 700;
+}
+.domain-price .price .store {
+    font-size: 21px;
+    color: #0080CF;
+    font-weight: 700;
+    padding-right: 1rem;
+}

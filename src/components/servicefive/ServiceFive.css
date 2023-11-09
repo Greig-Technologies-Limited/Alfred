@@ -1,0 +1,56 @@
+.services5 {
+    width: 100%;
+}
+.service5-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.service5-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.service5-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.content5 {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.content5 .left {
+    width: 50%;
+    margin-right: 2rem;
+}
+.content5 .left .image {
+    height: 50vh;
+    background: url('../../assets/corrosion-control.png') no-repeat center center/cover;
+}
+.content5 .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.service5-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.content5 .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.content5 .right {
+    width: 50%;
+}
+.content5 .right p {
+    font-size: 16px;
+    margin-top: 3.6rem;
+}

@@ -1,0 +1,57 @@
+.services4 {
+    width: 100%;
+}
+.service4-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.service4-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.service4-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.content-4 {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.content-4 .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.content-4 .left .image {
+    height: 50vh;
+    background: url('../../assets/non-destructive-testong.jpg') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.content-4 .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.service4-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.content-4 .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.content-4 .right {
+    width: 50%;
+}
+.content-4 .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+}

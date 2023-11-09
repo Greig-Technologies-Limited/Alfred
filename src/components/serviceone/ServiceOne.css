@@ -1,0 +1,56 @@
+.services {
+    width: 100%;
+    padding-top: 5rem;
+}
+.service-con {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.service-con h1 {
+    margin-top: 1rem;
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+}
+.service-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.content {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.content .left {
+    width: 50%;
+    margin-right: 2rem;
+}
+.content .left .image {
+    height: 50vh;
+    background: url('../../assets/telecom.avif') no-repeat center center/cover;
+}
+.content .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.service-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.content .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.content .right {
+    width: 50%;
+}
+.content .right p {
+    font-size: 16px;
+    margin-top: 3.6rem;
+}

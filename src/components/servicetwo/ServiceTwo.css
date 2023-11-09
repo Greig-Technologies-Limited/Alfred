@@ -1,0 +1,57 @@
+.services2 {
+    width: 100%;
+}
+.service2-con {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.service2-con h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 1rem;
+}
+.service2-con .underline {
+    height: 2px;
+    width: 130px;
+    background: #CED0D0;
+    margin-left: 35rem;
+}
+.content-i {
+    margin-top: 2.5rem;
+    display: flex;
+}
+.content-i .left {
+    width: 50%;
+    margin-left: 2rem;
+}
+.content-i .left .image {
+    height: 50vh;
+    background: url('../../assets/PIPING-0001.webp') no-repeat center center/cover;
+    margin-bottom: 30px;
+}
+.content-i .left h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.service2-con .left .under {
+    height: 2px;
+    width: 180px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    background: #CED0D0;
+}
+.content-i .left p {
+    font-size: 16px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.content-i .right {
+    width: 50%;
+}
+.content-i .right p {
+    font-size: 16px;
+    margin-top: 7rem;
+}
