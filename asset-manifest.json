@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Alfred/static/css/main.24b84f64.css",
-    "main.js": "/Alfred/static/js/main.e11ee837.js",
+    "main.css": "/Alfred/static/css/main.a799eec5.css",
+    "main.js": "/Alfred/static/js/main.96a25541.js",
     "static/media/footer-bg (1).jpg": "/Alfred/static/media/footer-bg (1).11b458ae1279c6608c5e.jpg",
     "static/media/corrosion-control.png": "/Alfred/static/media/corrosion-control.a1a8cecb6c1077eb2cc6.png",
     "static/media/crane-working.jpg": "/Alfred/static/media/crane-working.3615fb0406b7c5744f04.jpg",
@@ -23,11 +23,11 @@
     "static/media/Oceaneering-Logo-White2.jpg": "/Alfred/static/media/Oceaneering-Logo-White2.af5100d4f2c119f19f25.jpg",
     "static/media/delta.webp": "/Alfred/static/media/delta.9206a445544630501dbb.webp",
     "index.html": "/Alfred/index.html",
-    "main.24b84f64.css.map": "/Alfred/static/css/main.24b84f64.css.map",
-    "main.e11ee837.js.map": "/Alfred/static/js/main.e11ee837.js.map"
+    "main.a799eec5.css.map": "/Alfred/static/css/main.a799eec5.css.map",
+    "main.96a25541.js.map": "/Alfred/static/js/main.96a25541.js.map"
   },
   "entrypoints": [
-    "static/css/main.24b84f64.css",
-    "static/js/main.e11ee837.js"
+    "static/css/main.a799eec5.css",
+    "static/js/main.96a25541.js"
   ]
 }
