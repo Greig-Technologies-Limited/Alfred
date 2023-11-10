@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
 import { useState } from 'react'
 import {FaBars, FaTimes} from 'react-icons/fa'
 import './NavbarStyling.css'
@@ -16,12 +17,12 @@ const Navbar = () => {
                 {/* <SiDatabricks className='icon' />
                 <h1>Logo</h1> */}
                 <div className="logoImg"></div>
-                <img src="../../assets/logo.jpg" alt="" />
+                {/* <img src="../../assets/logo.jpg" alt="" /> */}
             </div>
             <ul className={nav ? 'nav-menu active' : 'nav-menu'}>
-                <li><a href="/">Home</a></li>
-                <li><a href="/">Services</a></li>
-                <li><a href="/">About</a></li>
+                <li><Link to='/'>Home</Link></li>
+                <li><Link to='/'>Services</Link></li>
+                <li><Link to='/AboutPage'>About</Link></li>
                 {/* <li>Recovery</li>
                 <li>Cloud</li>
                 <li>Contact</li>

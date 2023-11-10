@@ -28,7 +28,7 @@
 }
 .noble-content .left .image {
     height: 50vh;
-    background: url('../../assets/Noble_Corporation_logo.svg.png') no-repeat center center/cover;
+    /* background: url('../../assets/Noble_Corporation_logo.svg.png') no-repeat center center/cover; */
     margin-bottom: 30px;
 }
 .noble-content .left h2 {

@@ -28,7 +28,6 @@
 }
 .delta-content .left .image {
     height: 50vh;
-    background: url('../../assets/delta.webp') no-repeat center center/cover;
     margin-bottom: 30px;
 }
 .delta-content .left h2 {

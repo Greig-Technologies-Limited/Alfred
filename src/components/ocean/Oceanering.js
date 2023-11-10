@@ -1,4 +1,5 @@
 import React from 'react'
+import ocean from '../../assets/Oceaneering-Logo-White2.jpg'
 import './Oceanering.css'
 
 const Oceanering = () => {
@@ -11,7 +12,9 @@ const Oceanering = () => {
                 <div className="left">
                 <h2>OCEANEERING DATA SERVICES</h2>
                 <div className="under"></div>
-                <div className="image"></div>
+                <div className="image">
+                <img src={ocean} alt="MobilLogo" style={{width: '500px', marginTop: '2rem'}} />
+                </div>
                 <p>
                      
                 </p>

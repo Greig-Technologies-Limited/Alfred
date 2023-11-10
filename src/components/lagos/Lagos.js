@@ -1,4 +1,5 @@
 import React from 'react'
+import water from '../../assets/lagos.jpg'
 import './Lagos.css'
 
 const Lagos = () => {
@@ -11,7 +12,9 @@ const Lagos = () => {
                 <div className="left">
                 <h2>LAGOS STATE WATER CORPORATION</h2>
                 <div className="under"></div>
-                <div className="image"></div>
+                <div className="image">
+                    <img src={water} alt="" />
+                </div>
                 <p>
                      
                 </p>

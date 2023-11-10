@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="overlay">
       <div className="container">
             <div className="content">
-                <h2>Highest Quality of Customer-Tailored Services</h2>
+                <h2>High Quality Customer Tailored Services</h2>
                 <h1 className='blue'>RELIABLE EPCM OPERATOR</h1>
             </div>
         </div>

@@ -1,4 +1,5 @@
 import React from 'react'
+import mobi from '../../assets/MoLogo.jpg'
 import './Mobil.css'
 
 const Mobil = () => {
@@ -9,9 +10,11 @@ const Mobil = () => {
             <div className="underline"></div> */}
             <div className="mobil-content">
                 <div className="left">
-                <h2>OCEANEERING DATA SERVICES</h2>
+                <h2>MOBIL PRODUCING NIGERIA UNLIMITED</h2>
                 <div className="under"></div>
-                <div className="image"></div>
+                <div className="image">
+                <img src={mobi} alt="MobilLogo" style={{width: '500px', marginTop: '2rem'}} />
+                </div>
                 <p>
                      
                 </p>
@@ -21,7 +24,7 @@ const Mobil = () => {
                         Alfred Peterson Limited has been providing backup   voice and data services and sundry IT services to     ExxonMobil and affiliates since 2005.
                         <ul>
                             <li><span>-</span>Provision of Voice & Fax Communications Services on MPN Jack-up Rigs</li>
-                            <li><span>-</span>Provision of Extended Field Communication using SAT Phones & Initial Vehicle Tracking System</li>
+                            <li><span>-</span>Provision of Extended Field Communication using SAT Phones & Initial <br /> Vehicle Tracking System</li>
                             <li><span>-</span>Turnkey Lightening & Voltage Surge Suppression System for MHE & TTC, Eket, Akwa Ibom State</li>
                             <li><span>-</span>Ground Improvement Works for Existing Telecoms Tower at MHE & TTC, Eket, Akwa Ibom State</li>
                             <li><span>-</span>Provision, Installation & Support of Satellite Phones for MPOL Project team</li>

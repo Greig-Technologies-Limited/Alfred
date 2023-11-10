@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 
-import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import {HashRouter, Routes, Route} from 'react-router-dom';
 import TelecomPage from './routes/TelecomPage';
 import PippingPage from './routes/PippingPage';
 import MaterialPage from './routes/MaterialPage';
@@ -18,12 +18,13 @@ import MobilPage from './routes/MobilPage';
 import NoblePage from './routes/NoblePage';
 import DeltaPage from './routes/DeltaPage';
 import LagosPage from './routes/LagosPage';
+import AboutPage from './routes/AboutPage';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route path='/' element={<App/>} />
       <Route path='/TelecomPage' element={<TelecomPage />} />
@@ -40,8 +41,9 @@ root.render(
       <Route path='/NoblePage' element={<NoblePage/>}/>
       <Route path='/DeltaPage' element={<DeltaPage/>}/>
       <Route path='/LagosPage' element={<LagosPage/>}/>
+      <Route path='/AboutPage' element={<AboutPage/>}/>
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 
 
 

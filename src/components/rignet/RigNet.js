@@ -1,4 +1,5 @@
 import React from 'react'
+import Rignet from '../../assets/rignetLogo.png';
 import './RigNet.css'
 
 const RigNet = () => {
@@ -9,9 +10,11 @@ const RigNet = () => {
             <div className="underline"></div> */}
             <div className="rignet-content">
                 <div className="left">
-                <h2>OCEANEERING DATA SERVICES</h2>
+                <h2>RigNet (INC.) USA</h2>
                 <div className="under"></div>
-                <div className="image"></div>
+                <div className="image">
+                <img src={Rignet} alt="rignetLogo" style={{width: '500px', marginTop: '2rem'}} />
+                </div>
                 <p>
                      
                 </p>

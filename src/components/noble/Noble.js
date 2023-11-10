@@ -1,4 +1,5 @@
 import React from 'react'
+import noble from '../../assets/NobleCorp.svg.png'
 import './Noble.css'
 
 const Noble = () => {
@@ -11,7 +12,9 @@ const Noble = () => {
                 <div className="left">
                 <h2>NOBLE DRILLING NIGERIA LTD</h2>
                 <div className="under"></div>
-                <div className="image"></div>
+                <div className="image">
+                <img src={noble} alt="MobilLogo" style={{width: '500px', marginTop: '2rem'}} />
+                </div>
                 <p>
                      
                 </p>

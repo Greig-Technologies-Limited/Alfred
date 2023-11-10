@@ -1,4 +1,5 @@
 import React from 'react'
+import delta from '../../assets/delta.webp'
 import './Delta.css'
 
 const Delta = () => {
@@ -11,7 +12,9 @@ const Delta = () => {
                 <div className="left">
                 <h2>DELTA AFRIK ENGINEERING LTD</h2>
                 <div className="under"></div>
-                <div className="image"></div>
+                <div className="image">
+                    <img src={delta} alt="" style={{width: '500px'}}/>
+                </div>
                 <p>
                      
                 </p>

@@ -28,7 +28,6 @@
 }
 .mobil-content .left .image {
     height: 50vh;
-    background: url('../../assets/mobil.jpeg') no-repeat center center/cover;
     margin-bottom: 30px;
 }
 .mobil-content .left h2 {
@@ -66,4 +65,3 @@
 .mobil-content .right p ul li span {
     margin-right: 1rem;
 }
-
