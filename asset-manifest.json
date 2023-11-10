@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Alfred/static/css/main.922a8d78.css",
-    "main.js": "/Alfred/static/js/main.39df2c69.js",
+    "main.js": "/Alfred/static/js/main.dc608d81.js",
     "static/media/footer-bg (1).jpg": "/Alfred/static/media/footer-bg (1).11b458ae1279c6608c5e.jpg",
     "static/media/corrosion-control.png": "/Alfred/static/media/corrosion-control.a1a8cecb6c1077eb2cc6.png",
     "static/media/crane-working.jpg": "/Alfred/static/media/crane-working.3615fb0406b7c5744f04.jpg",
@@ -26,10 +26,10 @@
     "static/media/folder.webp": "/Alfred/static/media/folder.f854f8759a99be3a2b7f.webp",
     "index.html": "/Alfred/index.html",
     "main.922a8d78.css.map": "/Alfred/static/css/main.922a8d78.css.map",
-    "main.39df2c69.js.map": "/Alfred/static/js/main.39df2c69.js.map"
+    "main.dc608d81.js.map": "/Alfred/static/js/main.dc608d81.js.map"
   },
   "entrypoints": [
     "static/css/main.922a8d78.css",
-    "static/js/main.39df2c69.js"
+    "static/js/main.dc608d81.js"
   ]
 }
