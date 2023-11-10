@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
             <Link
       activeClass="active"
-      to="top"
+      to="hero"
       spy={true}
       smooth={true}
       offset={50}
@@ -69,7 +69,7 @@ const Footer = () => {
             <div className="season"><h5>&copy;2023</h5></div>
           </div>
           <div className="brand">
-           <h5>created by Shęriff&DaKing</h5></div>
+           <h5>created by Shęriff & Chi</h5></div>
         </div>
       </div>
     );

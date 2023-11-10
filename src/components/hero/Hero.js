@@ -3,7 +3,7 @@ import './HeroStyles.css'
 
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div   className='hero'>
       <div className="overlay">
       <div className="container">
             <div className="content">

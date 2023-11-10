@@ -27,12 +27,12 @@
     padding-top: 20px;
     padding-bottom: 20px;
     margin-right: 2rem;
-    border: 1px solid brown;
+    border: 1px solid #2EB8E0;
     border-radius: 10px;
     transition: .2s all ease-in-out;
 }
 .ser-row .r1:hover {
-    box-shadow: 1px 1px 1px 1px rgba(165, 42, 42, 0.37);
+    box-shadow: 1px 1px 1px 1px #2EB8E0;
 }
 .ser-row .r1 h2 {
     font-size: 18px;

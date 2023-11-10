@@ -11,7 +11,7 @@ const Navbar = () => {
 
 
   return (
-    <div name ='top' className='navbar'>
+    <div className='navbar'>
         <div className="container">
             <div className="logo">
                 {/* <SiDatabricks className='icon' />
@@ -21,8 +21,8 @@ const Navbar = () => {
             </div>
             <ul className={nav ? 'nav-menu active' : 'nav-menu'}>
                 <li><Link to='/'>Home</Link></li>
-                <li><Link to='/'>Services</Link></li>
                 <li><Link to='/AboutPage'>About</Link></li>
+                <li><Link to='/ContactPage'>Contact</Link></li>
                 {/* <li>Recovery</li>
                 <li>Cloud</li>
                 <li>Contact</li>

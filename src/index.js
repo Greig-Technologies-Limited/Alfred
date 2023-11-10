@@ -19,6 +19,7 @@ import NoblePage from './routes/NoblePage';
 import DeltaPage from './routes/DeltaPage';
 import LagosPage from './routes/LagosPage';
 import AboutPage from './routes/AboutPage';
+import ContactPage from './routes/ContactPage';
 
 
 
@@ -42,6 +43,7 @@ root.render(
       <Route path='/DeltaPage' element={<DeltaPage/>}/>
       <Route path='/LagosPage' element={<LagosPage/>}/>
       <Route path='/AboutPage' element={<AboutPage/>}/>
+      <Route path='/ContactPage' element={<ContactPage/>}/>
     </Routes>
   </HashRouter>
 
