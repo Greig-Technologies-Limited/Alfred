@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Alfred/static/css/main.3363ba4e.css",
-    "main.js": "/Alfred/static/js/main.203d5f56.js",
+    "main.css": "/Alfred/static/css/main.f98838d6.css",
+    "main.js": "/Alfred/static/js/main.0cc777f3.js",
     "static/media/footer-bg (1).jpg": "/Alfred/static/media/footer-bg (1).11b458ae1279c6608c5e.jpg",
     "static/media/corrosion-control.png": "/Alfred/static/media/corrosion-control.a1a8cecb6c1077eb2cc6.png",
     "static/media/crane-working.jpg": "/Alfred/static/media/crane-working.3615fb0406b7c5744f04.jpg",
     "static/media/telecom.avif": "/Alfred/static/media/telecom.13a1a0e5ece03e3b9b56.avif",
     "static/media/Magazijn-LR-920x630.jpg": "/Alfred/static/media/Magazijn-LR-920x630.8201721aaa19eddc5ea4.jpg",
     "static/media/non-destructive-testong.jpg": "/Alfred/static/media/non-destructive-testong.459ea19c004afbfcf32e.jpg",
+    "static/media/equipmentstore_store.jpg": "/Alfred/static/media/equipmentstore_store.ea4c42488b1a33f42e68.jpg",
+    "static/media/telecommunication_services.jpg": "/Alfred/static/media/telecommunication_services.d34d9bada9d57b9311d0.jpg",
     "static/media/logoAbout.jpeg": "/Alfred/static/media/logoAbout.a974b102fa4f8622a3ad.jpeg",
     "static/media/unilever-logo.png": "/Alfred/static/media/unilever-logo.4da202072636e5a8def6.png",
     "static/media/PIPING-0001.webp": "/Alfred/static/media/PIPING-0001.dcd4c991438091998a47.webp",
-    "static/media/about3.jpeg": "/Alfred/static/media/about3.1e28c120c604896dacee.jpeg",
     "static/media/MoLogo.jpg": "/Alfred/static/media/MoLogo.8f7248ecf75df81fd8fa.jpg",
-    "static/media/about2.jpeg": "/Alfred/static/media/about2.f16de8d4b2816d53ff96.jpeg",
     "static/media/NobleCorp.svg.png": "/Alfred/static/media/NobleCorp.svg.68385487f2666cd90ecb.png",
     "static/media/logo-removebg-preview.png": "/Alfred/static/media/logo-removebg-preview.3b7432980d88ecd7b46a.png",
     "static/media/Wema-Bank.jpg": "/Alfred/static/media/Wema-Bank.75f89853d3fa70e87196.jpg",
@@ -24,11 +24,11 @@
     "static/media/Oceaneering-Logo-White2.jpg": "/Alfred/static/media/Oceaneering-Logo-White2.af5100d4f2c119f19f25.jpg",
     "static/media/delta.webp": "/Alfred/static/media/delta.9206a445544630501dbb.webp",
     "index.html": "/Alfred/index.html",
-    "main.3363ba4e.css.map": "/Alfred/static/css/main.3363ba4e.css.map",
-    "main.203d5f56.js.map": "/Alfred/static/js/main.203d5f56.js.map"
+    "main.f98838d6.css.map": "/Alfred/static/css/main.f98838d6.css.map",
+    "main.0cc777f3.js.map": "/Alfred/static/js/main.0cc777f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3363ba4e.css",
-    "static/js/main.203d5f56.js"
+    "static/css/main.f98838d6.css",
+    "static/js/main.0cc777f3.js"
   ]
 }
