@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Alfred/static/css/main.f98838d6.css",
-    "main.js": "/Alfred/static/js/main.0cc777f3.js",
+    "main.js": "/Alfred/static/js/main.6f3a2626.js",
     "static/media/footer-bg (1).jpg": "/Alfred/static/media/footer-bg (1).11b458ae1279c6608c5e.jpg",
     "static/media/corrosion-control.png": "/Alfred/static/media/corrosion-control.a1a8cecb6c1077eb2cc6.png",
     "static/media/crane-working.jpg": "/Alfred/static/media/crane-working.3615fb0406b7c5744f04.jpg",
     "static/media/telecom.avif": "/Alfred/static/media/telecom.13a1a0e5ece03e3b9b56.avif",
     "static/media/Magazijn-LR-920x630.jpg": "/Alfred/static/media/Magazijn-LR-920x630.8201721aaa19eddc5ea4.jpg",
     "static/media/non-destructive-testong.jpg": "/Alfred/static/media/non-destructive-testong.459ea19c004afbfcf32e.jpg",
+    "static/media/lagos-removebg-preview.png": "/Alfred/static/media/lagos-removebg-preview.18a2a72bfca02bcdc003.png",
     "static/media/equipmentstore_store.jpg": "/Alfred/static/media/equipmentstore_store.ea4c42488b1a33f42e68.jpg",
     "static/media/telecommunication_services.jpg": "/Alfred/static/media/telecommunication_services.d34d9bada9d57b9311d0.jpg",
     "static/media/logoAbout.jpeg": "/Alfred/static/media/logoAbout.a974b102fa4f8622a3ad.jpeg",
@@ -20,15 +21,17 @@
     "static/media/lagos.jpg": "/Alfred/static/media/lagos.d73e89771725fd3d1ecb.jpg",
     "static/media/ng-unilev-logo.webp": "/Alfred/static/media/ng-unilev-logo.7fe627c73ea8dc448764.webp",
     "static/media/rignetLogo.png": "/Alfred/static/media/rignetLogo.a785d8909f8ab2c78e04.png",
+    "static/media/noble_drilling_logo-removebg-preview.png": "/Alfred/static/media/noble_drilling_logo-removebg-preview.04a152faf056c44b50d9.png",
     "static/media/ng-wemaba-logo.webp": "/Alfred/static/media/ng-wemaba-logo.d1c19659969abecf19e4.webp",
+    "static/media/mobil-removebg-preview.png": "/Alfred/static/media/mobil-removebg-preview.8b90562793a9cdd26470.png",
     "static/media/Oceaneering-Logo-White2.jpg": "/Alfred/static/media/Oceaneering-Logo-White2.af5100d4f2c119f19f25.jpg",
     "static/media/delta.webp": "/Alfred/static/media/delta.9206a445544630501dbb.webp",
     "index.html": "/Alfred/index.html",
     "main.f98838d6.css.map": "/Alfred/static/css/main.f98838d6.css.map",
-    "main.0cc777f3.js.map": "/Alfred/static/js/main.0cc777f3.js.map"
+    "main.6f3a2626.js.map": "/Alfred/static/js/main.6f3a2626.js.map"
   },
   "entrypoints": [
     "static/css/main.f98838d6.css",
-    "static/js/main.0cc777f3.js"
+    "static/js/main.6f3a2626.js"
   ]
 }
