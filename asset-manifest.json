@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Alfred/static/css/main.97378b20.css",
-    "main.js": "/Alfred/static/js/main.6f3a2626.js",
+    "main.css": "/Alfred/static/css/main.07ca81ae.css",
+    "main.js": "/Alfred/static/js/main.25a87944.js",
     "static/media/footer-bg (1).jpg": "/Alfred/static/media/footer-bg (1).11b458ae1279c6608c5e.jpg",
     "static/media/corrosion-control.png": "/Alfred/static/media/corrosion-control.a1a8cecb6c1077eb2cc6.png",
     "static/media/crane-working.jpg": "/Alfred/static/media/crane-working.3615fb0406b7c5744f04.jpg",
@@ -17,8 +17,6 @@
     "static/media/MoLogo.jpg": "/Alfred/static/media/MoLogo.8f7248ecf75df81fd8fa.jpg",
     "static/media/NobleCorp.svg.png": "/Alfred/static/media/NobleCorp.svg.68385487f2666cd90ecb.png",
     "static/media/logo-removebg-preview.png": "/Alfred/static/media/logo-removebg-preview.3b7432980d88ecd7b46a.png",
-    "static/media/Wema-Bank.jpg": "/Alfred/static/media/Wema-Bank.75f89853d3fa70e87196.jpg",
-    "static/media/lagos.jpg": "/Alfred/static/media/lagos.d73e89771725fd3d1ecb.jpg",
     "static/media/ng-unilev-logo.webp": "/Alfred/static/media/ng-unilev-logo.7fe627c73ea8dc448764.webp",
     "static/media/rignetLogo.png": "/Alfred/static/media/rignetLogo.a785d8909f8ab2c78e04.png",
     "static/media/noble_drilling_logo-removebg-preview.png": "/Alfred/static/media/noble_drilling_logo-removebg-preview.04a152faf056c44b50d9.png",
@@ -27,11 +25,11 @@
     "static/media/Oceaneering-Logo-White2.jpg": "/Alfred/static/media/Oceaneering-Logo-White2.af5100d4f2c119f19f25.jpg",
     "static/media/delta.webp": "/Alfred/static/media/delta.9206a445544630501dbb.webp",
     "index.html": "/Alfred/index.html",
-    "main.97378b20.css.map": "/Alfred/static/css/main.97378b20.css.map",
-    "main.6f3a2626.js.map": "/Alfred/static/js/main.6f3a2626.js.map"
+    "main.07ca81ae.css.map": "/Alfred/static/css/main.07ca81ae.css.map",
+    "main.25a87944.js.map": "/Alfred/static/js/main.25a87944.js.map"
   },
   "entrypoints": [
-    "static/css/main.97378b20.css",
-    "static/js/main.6f3a2626.js"
+    "static/css/main.07ca81ae.css",
+    "static/js/main.25a87944.js"
   ]
 }
